@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kukuh Aprianto</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
-<img align="right" alt="Profile" width="400" src="https://st4.depositphotos.com/31343406/39072/v/380/depositphotos_390720558-stock-illustration-guy-developer-character-thinking-work.jpg">
+<img align="right" alt="Profile" width="400" src="https://static.vecteezy.com/system/resources/previews/005/151/164/large_2x/programer-learning-programming-languages-by-computer-laptop-on-website-and-tutorial-channel-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kukuh21&label=Profile%20views&color=0e75b6&style=flat" alt="kukuh21" /> </p>
 
