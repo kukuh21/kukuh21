@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m working at [BKPSDM Tabalong](https://bkpsdm.tabalongkab.go.id)
+- 🔭 I’m working at [Hillconjaya Sakti](https://www.hillcon.co.id/)
 
 - 🌱 I’m currently learning **Laravel, React Native, Vue Js**
 
